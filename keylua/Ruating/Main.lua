@@ -1,7 +1,7 @@
 local CorrectKey = "ScriptGaming Subs482" -- Ganti kunci sesukamu
 local GetKeyLink = "https://pastebin.com/B8ajhBqa" -- Link untuk ambil key
 
-local MainUrl = "https://raw.githubusercontent.com/Edgeiy/infiniteyield/master/source"
+local MainUrl = "https://raw.githubusercontent.com/arkanzulfadliputra-oss/ScriptGaming-Outwitt-Granny/refs/heads/main/Outwitt/Main/MainTrue/Main.lua"
 
 local ScreenGui = Instance.new("ScreenGui")
 local Main = Instance.new("Frame")
